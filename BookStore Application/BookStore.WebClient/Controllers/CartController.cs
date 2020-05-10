@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel;
+using System.Transactions;
 using System.Web;
 using System.Web.Mvc;
 using BookStore.Services.MessageTypes;
 using BookStore.WebClient.ClientModels;
 using BookStore.WebClient.ViewModels;
+
 
 namespace BookStore.WebClient.Controllers
 {
@@ -33,21 +35,38 @@ namespace BookStore.WebClient.Controllers
         }
 
         public ActionResult CheckOut(Cart pCart, UserCache pUser)
+
         {
-            try
+            Object lockObj = new object();
+            lock (lockObj)
             {
-                pCart.SubmitOrderAndClearCart(pUser);
+                try
+                {
+                    if (pCart.OrderItems.Count > 0)
+                    {
+                        pCart.SubmitOrderAndClearCart(pUser);
+                    }
+                    else {
+                        return RedirectToAction("DoubleCheckOut");
+
+                    }
+                }
+                catch
+                {
+                    pCart.Clear();
+                    pUser.UpdateUserCache();
+                    return RedirectToAction("ErrorPage");
+                }
+              
+                return View(new CheckOutViewModel(pUser.Model));
             }
-            catch
-            {
-                pCart.Clear();
-                pUser.UpdateUserCache();
-                return RedirectToAction("ErrorPage");
-            }
-            return View(new CheckOutViewModel(pUser.Model));
         }
 
         public ActionResult ErrorPage()
+        {
+            return View();
+        }
+        public ActionResult DoubleCheckOut()
         {
             return View();
         }

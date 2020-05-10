@@ -34,3 +34,15 @@ C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.B
 C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CopyComplete
 C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
 C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CopyComplete
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

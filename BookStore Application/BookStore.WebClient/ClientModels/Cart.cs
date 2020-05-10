@@ -11,6 +11,7 @@ namespace BookStore.WebClient.ClientModels
         private List<OrderItem> mOrderItems = new List<OrderItem>();
         public IList<OrderItem> OrderItems { get { return mOrderItems.AsReadOnly(); } }
 
+
         public void AddItem(Book pBook, int pQuantity)
         {
             var lItem = mOrderItems.FirstOrDefault(oi => oi.Book.Id == pBook.Id);
