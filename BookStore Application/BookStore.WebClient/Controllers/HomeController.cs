@@ -22,5 +22,12 @@ namespace BookStore.WebClient.Controllers
         {
             return View();
         }
+
+        public ActionResult Delivery()
+        {
+            return View();
+        }
+
+
     }
 }

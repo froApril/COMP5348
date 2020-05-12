@@ -13,5 +13,8 @@ namespace DeliveryCo.Services.Interfaces
         [OperationContract]
         [TransactionFlow(TransactionFlowOption.Allowed)]
         Guid SubmitDelivery(DeliveryInfo pDeliveryInfo);
+
+        [OperationContract]
+        List<DeliveryInfo> getAllDelivery();
     }
 }

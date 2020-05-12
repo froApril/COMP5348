@@ -165,8 +165,10 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Binders\CartModelBinder.cs" />
+    <Compile Include="ClientModels\DeliveryList.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CartController.cs" />
+    <Compile Include="Controllers\DeliveryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\StoreController.cs" />
@@ -239,6 +241,7 @@
     <Content Include="Views\Cart\InsufficientStock.cshtml" />
     <Content Include="Views\Cart\ErrorPage.cshtml" />
     <Content Include="Views\Cart\DoubleCheckOut.cshtml" />
+    <Content Include="Views\Delivery\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -251,6 +254,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BookStore.Business.Components\BookStore.Business.Components.csproj">
+      <Project>{8487AF38-AA02-40B8-8DDD-898D0FB40E33}</Project>
+      <Name>BookStore.Business.Components</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{c2d987a4-ad05-4c0b-b285-5b64b0132df9}</Project>
       <Name>Common</Name>
@@ -262,6 +269,14 @@
     <ProjectReference Include="..\BookStore.Services.MessageTypes\BookStore.Services.MessageTypes.csproj">
       <Project>{27445e9d-2f52-473a-96af-85fac10bcce0}</Project>
       <Name>BookStore.Services.MessageTypes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DeliveryCo.MessageTypes\DeliveryCo.MessageTypes.csproj">
+      <Project>{441C1B38-48E4-4888-898F-CB5A9517B7A9}</Project>
+      <Name>DeliveryCo.MessageTypes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DeliveryCo.Services\DeliveryCo.Services.Interfaces\DeliveryCo.Services.Interfaces.csproj">
+      <Project>{7E7A8D7D-87CF-420F-A72B-8F4A258BB48A}</Project>
+      <Name>DeliveryCo.Services.Interfaces</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

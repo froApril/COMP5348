@@ -35,3 +35,23 @@ C:\Users\ASUS\Desktop\新建文件夹\BookStore.Business.Components.Interfaces\o
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components.Interfaces\bin\Debug\DeliveryCo.MessageTypes.pdb

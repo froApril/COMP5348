@@ -54,6 +54,7 @@ namespace BookStore.WebClient
                 return GetTcpService<ICatalogueService>("net.tcp://localhost:9010/CatalogueService");
             }
         }
+     
 
 
         private T GetTcpService<T>(String pAddress)

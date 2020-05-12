@@ -33,3 +33,15 @@ C:\Users\ASUS\Desktop\新建文件夹\BookStore.Services.MessageTypes\obj\Debug\
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb

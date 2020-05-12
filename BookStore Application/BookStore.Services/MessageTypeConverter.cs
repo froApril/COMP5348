@@ -47,6 +47,9 @@ namespace BookStore.Services
 
             AutoMapper.Mapper.CreateMap<BookStore.Business.Entities.LoginCredential,
                                         BookStore.Services.MessageTypes.LoginCredential>();
+            AutoMapper.Mapper.CreateMap<BookStore.Business.Entities.Delivery,
+                                       BookStore.Services.MessageTypes.Delivery>();
+
         }
 
         public void InitializeExternalToInternalMappings()
@@ -65,6 +68,8 @@ namespace BookStore.Services
 
             AutoMapper.Mapper.CreateMap<BookStore.Services.MessageTypes.LoginCredential,
                                         BookStore.Business.Entities.LoginCredential>();
+            AutoMapper.Mapper.CreateMap<BookStore.Services.MessageTypes.Delivery,
+                                        BookStore.Business.Entities.Delivery>();
         }
 
         public Destination Convert<Source, Destination>(Source s) where Destination : class

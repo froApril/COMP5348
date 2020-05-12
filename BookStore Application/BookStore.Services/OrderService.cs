@@ -38,5 +38,7 @@ namespace BookStore.Services
                     new InsufficientStockFault() { ItemName = ise.ItemName });
             }
         }
+
+       
     }
 }

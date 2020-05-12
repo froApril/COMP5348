@@ -49,3 +49,20 @@ C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.Co
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.dll
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csproj.CopyComplete
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.pdb

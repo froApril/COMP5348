@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ICatalogueService.cs" />
+    <Compile Include="IDeliveryService.cs" />
     <Compile Include="IRoleService.cs" />
     <Compile Include="IUserService.cs" />
     <Compile Include="IOrderService.cs" />
@@ -67,6 +68,10 @@
     <ProjectReference Include="..\BookStore.Services.MessageTypes\BookStore.Services.MessageTypes.csproj">
       <Project>{27445e9d-2f52-473a-96af-85fac10bcce0}</Project>
       <Name>BookStore.Services.MessageTypes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DeliveryCo.MessageTypes\DeliveryCo.MessageTypes.csproj">
+      <Project>{441C1B38-48E4-4888-898F-CB5A9517B7A9}</Project>
+      <Name>DeliveryCo.MessageTypes</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

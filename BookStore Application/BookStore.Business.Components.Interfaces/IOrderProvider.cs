@@ -9,5 +9,8 @@ namespace BookStore.Business.Components.Interfaces
     public interface IOrderProvider
     {
         void SubmitOrder(Order pOrder);
+
+
+
     }
 }

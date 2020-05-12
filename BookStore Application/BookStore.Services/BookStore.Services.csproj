@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="CatalogueService.cs" />
     <Compile Include="DeliveryNotificationService.cs" />
+    <Compile Include="DeliveryService.cs" />
     <Compile Include="MessageTypeConverter.cs" />
     <Compile Include="RoleService.cs" />
     <Compile Include="UserService.cs" />
@@ -69,6 +70,10 @@
     <Compile Include="ServiceFactory.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DeliveryCo.MessageTypes\DeliveryCo.MessageTypes.csproj">
+      <Project>{441C1B38-48E4-4888-898F-CB5A9517B7A9}</Project>
+      <Name>DeliveryCo.MessageTypes</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DeliveryCo.Services\DeliveryCo.Services.Interfaces\DeliveryCo.Services.Interfaces.csproj">
       <Project>{7e7a8d7d-87cf-420f-a72b-8f4a258bb48a}</Project>
       <Name>DeliveryCo.Services.Interfaces</Name>

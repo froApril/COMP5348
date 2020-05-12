@@ -13,6 +13,15 @@ namespace DeliveryCo.Business.Components
 {
     public class DeliveryProvider : IDeliveryProvider
     {
+        public List<DeliveryInfo> getAllDelivery()
+        {
+            using (TransactionScope lScope = new TransactionScope())
+            using (DeliveryCoEntityModelContainer lContainer = new DeliveryCoEntityModelContainer())
+            {
+                return lContainer.DeliveryInfo.Where((delivery) => delivery.Status == 0).ToList();
+            }
+        }
+
         public Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo)
         {
             using(TransactionScope lScope = new TransactionScope())

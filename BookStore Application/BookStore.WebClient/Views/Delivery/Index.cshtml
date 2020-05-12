@@ -1,0 +1,31 @@
+﻿@model BookStore.WebClient.ClientModels.DeliveryList
+
+@{
+    ViewBag.Title = "delivery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>All the delivery</h2>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th align=center>From  </th>
+            <th align=left>To</th>
+            <th align=right>Order number</th>
+            <th align=right>Status </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lItem in Model.deliveryList)
+        {
+            <tr>
+                <td align=center>[ @lItem.SourceAddress ]</td>
+                <td align=left>[ @lItem.DestinationAddress ]</td>
+                <td align=right>[ @lItem.OrderNumber ] </td>
+                <td align=right>[ @lItem.Status ] </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

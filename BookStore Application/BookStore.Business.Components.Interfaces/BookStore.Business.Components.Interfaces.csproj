@@ -65,6 +65,10 @@
       <Project>{35992EC3-2C32-46AF-AEE4-491C54F681A5}</Project>
       <Name>BookStore.Business.Entities</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DeliveryCo.MessageTypes\DeliveryCo.MessageTypes.csproj">
+      <Project>{441C1B38-48E4-4888-898F-CB5A9517B7A9}</Project>
+      <Name>DeliveryCo.MessageTypes</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -48,5 +49,7 @@ namespace DeliveryCo.Services
             var result = AutoMapper.Mapper.Map<Source, Destination>(s);
             return result;
         }
+
+       
     }
 }
