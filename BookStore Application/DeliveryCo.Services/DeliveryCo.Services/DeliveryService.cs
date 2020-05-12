@@ -40,5 +40,9 @@ namespace DeliveryCo.Services
             return result;
         }
 
+        public void RefundDelivery(String pDeliveryInfo) {
+            DeliveryProvider.RefundDelivery(pDeliveryInfo);
+        }
+
     }
 }

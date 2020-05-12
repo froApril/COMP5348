@@ -19,12 +19,19 @@
     <tbody>
         @foreach (var lItem in Model.deliveryList)
         {
-            <tr>
-                <td align=center>[ @lItem.SourceAddress ]</td>
-                <td align=left>[ @lItem.DestinationAddress ]</td>
-                <td align=right>[ @lItem.OrderNumber ] </td>
-                <td align=right>[ @lItem.Status ] </td>
-            </tr>
+        <tr>
+            <td align=center>[ @lItem.SourceAddress ]</td>
+            <td align=left>[ @lItem.DestinationAddress ]</td>
+            <td align=right>[ @lItem.OrderNumber ] </td>
+            <td align=right>[ @lItem.Status ] </td>
+            <td>
+                @using (Html.BeginForm("RefundDelivery", "Delivery"))
+                {
+                    @Html.Hidden("delivery", lItem.DeliveryIdentifier)
+                    <input type="submit" value=Refund />
+                }
+            </td>
+        </tr>
         }
     </tbody>
 </table>

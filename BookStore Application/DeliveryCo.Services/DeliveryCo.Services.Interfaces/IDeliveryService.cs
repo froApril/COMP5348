@@ -16,5 +16,8 @@ namespace DeliveryCo.Services.Interfaces
 
         [OperationContract]
         List<DeliveryInfo> getAllDelivery();
+
+        [OperationContract]
+        void RefundDelivery(String pDeliveryInfo);
     }
 }

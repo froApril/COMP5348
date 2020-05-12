@@ -21,5 +21,12 @@ namespace BookStore.WebClient.Controllers
 
             return View(list);
         }
+
+        public RedirectToRouteResult RefundDelivery(String delivery)
+        {
+
+            ExternalServiceFactory.Instance.DeliveryService.RefundDelivery(delivery);
+            return RedirectToAction("Index");
+        }
     }
 }

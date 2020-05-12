@@ -11,5 +11,7 @@ namespace DeliveryCo.Business.Components.Interfaces
         Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo);
 
         List<DeliveryInfo> getAllDelivery();
+
+        void RefundDelivery(String pDeliveryInfo);
     }
 }

@@ -18,7 +18,7 @@ namespace DeliveryCo.Business.Components
             using (TransactionScope lScope = new TransactionScope())
             using (DeliveryCoEntityModelContainer lContainer = new DeliveryCoEntityModelContainer())
             {
-                return lContainer.DeliveryInfo.Where((delivery) => delivery.Status == 0).ToList();
+                return lContainer.DeliveryInfo.Where((delivery) => delivery.Status != 2).ToList();
             }
         }
 
@@ -39,17 +39,51 @@ namespace DeliveryCo.Business.Components
 
         private void ScheduleDelivery(DeliveryInfo pDeliveryInfo)
         {
-            Console.WriteLine("Delivering to" + pDeliveryInfo.DestinationAddress);
-            Thread.Sleep(3000);
+            Console.WriteLine("Delivering to " + pDeliveryInfo.DestinationAddress);
+            Thread.Sleep(5000);
             //notifying of delivery completion
             using (TransactionScope lScope = new TransactionScope())
             using (DeliveryCoEntityModelContainer lContainer = new DeliveryCoEntityModelContainer())
             {
-                pDeliveryInfo.Status = 1;
-                IDeliveryNotificationService lService = DeliveryNotificationServiceFactory.GetDeliveryNotificationService(pDeliveryInfo.DeliveryNotificationAddress);
-                lService.NotifyDeliveryCompletion(pDeliveryInfo.DeliveryIdentifier, DeliveryInfoStatus.Delivered);
+                var item = from d in lContainer.DeliveryInfo
+                           where d.DeliveryIdentifier == pDeliveryInfo.DeliveryIdentifier
+                           select d;
+
+                var i = item.First();
+                if (i != null && i.Status != 2)
+                {
+                    i.Status = 1;
+                    IDeliveryNotificationService lService = DeliveryNotificationServiceFactory.GetDeliveryNotificationService(i.DeliveryNotificationAddress);
+                    lService.NotifyDeliveryCompletion(i.DeliveryIdentifier, DeliveryInfoStatus.Delivered);
+                    lContainer.SaveChanges();
+                    lScope.Complete();
+                }
             }
 
         }
+
+        public void RefundDelivery(String pDeliveryInfo) 
+        {
+            Console.WriteLine("Order " + pDeliveryInfo+" is refund.");
+            using (TransactionScope lScope = new TransactionScope())
+            using (DeliveryCoEntityModelContainer lContainer = new DeliveryCoEntityModelContainer())
+            {
+                Guid value = new Guid(pDeliveryInfo);
+
+                var item = from d in lContainer.DeliveryInfo
+                           where d.DeliveryIdentifier == value
+                           select d;
+
+                var i = item.First();
+                i.Status = 2;
+                lContainer.SaveChanges();
+                lScope.Complete();
+                IDeliveryNotificationService lService = DeliveryNotificationServiceFactory.GetDeliveryNotificationService(i.DeliveryNotificationAddress);
+                lService.NotifyDeliveryCompletion(i.DeliveryIdentifier, DeliveryInfoStatus.Failed);
+
+                //do the bank account refund
+            }
+        }
+
     }
 }

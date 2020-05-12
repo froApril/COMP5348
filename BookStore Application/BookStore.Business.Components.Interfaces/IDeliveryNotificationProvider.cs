@@ -10,5 +10,6 @@ namespace BookStore.Business.Components.Interfaces
     {
 
         void NotifyDeliveryCompletion(Guid pDeliveryId, DeliveryStatus status);
+
     }
 }

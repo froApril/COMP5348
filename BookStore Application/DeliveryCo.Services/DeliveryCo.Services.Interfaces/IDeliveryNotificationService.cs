@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.ServiceModel;
+using BookStore.Services.MessageTypes;
+using System.ServiceModel.Channels;
 
 namespace DeliveryCo.Services.Interfaces
 {
@@ -13,5 +15,8 @@ namespace DeliveryCo.Services.Interfaces
     {
         [OperationContract]
         void NotifyDeliveryCompletion(Guid pDeliveryId, DeliveryInfoStatus status);
+
+
+
     }
 }

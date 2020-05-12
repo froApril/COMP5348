@@ -33,12 +33,12 @@ namespace BookStore.Business.Components
                 EmailProvider.SendMessage(new EmailMessage()
                 {
                     ToAddress = lAffectedOrder.Customer.Email,
-                    Message = "Our records show that there was a problem" + lAffectedOrder.OrderNumber + " delivering your order. Please contact Book Store"
+                    Message = "The order " + lAffectedOrder.OrderNumber + " has been canceled, if you have any question please contact with us"
                 });
             }
         }
 
-        private void UpdateDeliveryStatus(Guid pDeliveryId, DeliveryStatus status)
+        public void UpdateDeliveryStatus(Guid pDeliveryId, DeliveryStatus status)
         {
             using (TransactionScope lScope = new TransactionScope())
             using (BookStoreEntityModelContainer lContainer = new BookStoreEntityModelContainer())
@@ -53,7 +53,7 @@ namespace BookStore.Business.Components
             }
         }
 
-        private Order RetrieveDeliveryOrder(Guid pDeliveryId)
+        public Order RetrieveDeliveryOrder(Guid pDeliveryId)
         {
  	        using(BookStoreEntityModelContainer lContainer = new BookStoreEntityModelContainer())
             {

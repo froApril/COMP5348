@@ -278,6 +278,10 @@
       <Project>{7E7A8D7D-87CF-420F-A72B-8F4A258BB48A}</Project>
       <Name>DeliveryCo.Services.Interfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\EmailService.Services\EmailService.Services.Interfaces\EmailService.Services.Interfaces.csproj">
+      <Project>{361095E5-34FD-4987-BCE7-090D4E317918}</Project>
+      <Name>EmailService.Services.Interfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

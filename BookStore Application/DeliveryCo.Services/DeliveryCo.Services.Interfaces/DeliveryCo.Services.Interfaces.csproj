@@ -49,6 +49,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\BookStore.Services.MessageTypes\BookStore.Services.MessageTypes.csproj">
+      <Project>{27445E9D-2F52-473A-96AF-85FAC10BCCE0}</Project>
+      <Name>BookStore.Services.MessageTypes</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\DeliveryCo.MessageTypes\DeliveryCo.MessageTypes.csproj">
       <Project>{441c1b38-48e4-4888-898f-cb5a9517b7a9}</Project>
       <Name>DeliveryCo.MessageTypes</Name>

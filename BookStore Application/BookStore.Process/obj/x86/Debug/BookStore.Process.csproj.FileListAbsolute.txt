@@ -255,4 +255,3 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Process\obj\x86\D
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CopyComplete
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
-C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Process\bin\Debug\AutoMapper.Net4.dll

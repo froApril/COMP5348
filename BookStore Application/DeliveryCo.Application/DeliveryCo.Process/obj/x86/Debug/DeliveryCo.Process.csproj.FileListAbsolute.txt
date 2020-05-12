@@ -118,7 +118,6 @@ C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Application\DeliveryCo.Process\
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
-C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.Net4.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
