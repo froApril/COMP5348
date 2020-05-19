@@ -16,7 +16,8 @@ namespace DeliveryCo.Services.Interfaces
         [OperationContract]
         void NotifyDeliveryCompletion(Guid pDeliveryId, DeliveryInfoStatus status);
 
+        [OperationContract]
 
-
+        Order RetrieveDeliveryOrder(Guid pDeliveryId);
     }
 }

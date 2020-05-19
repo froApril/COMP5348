@@ -127,3 +127,7 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Service
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml

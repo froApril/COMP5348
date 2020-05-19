@@ -10,7 +10,7 @@ namespace BookStore.Business.Components.Interfaces
     {
         void SubmitOrder(Order pOrder);
 
-
+        void RefundOrder(Guid ordernumber);
 
     }
 }

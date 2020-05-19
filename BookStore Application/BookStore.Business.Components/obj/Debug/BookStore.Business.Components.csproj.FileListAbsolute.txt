@@ -127,3 +127,7 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Business
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Business.Components\bin\Debug\Microsoft.AspNet.Identity.Core.xml

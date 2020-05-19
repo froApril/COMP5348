@@ -36,3 +36,13 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Busin
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.pdb

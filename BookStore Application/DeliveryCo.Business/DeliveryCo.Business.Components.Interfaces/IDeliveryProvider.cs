@@ -12,6 +12,6 @@ namespace DeliveryCo.Business.Components.Interfaces
 
         List<DeliveryInfo> getAllDelivery();
 
-        void RefundDelivery(String pDeliveryInfo);
+        Guid RefundDelivery(String pDeliveryInfo);
     }
 }

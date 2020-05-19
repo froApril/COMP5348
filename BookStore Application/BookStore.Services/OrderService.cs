@@ -38,7 +38,10 @@ namespace BookStore.Services
                     new InsufficientStockFault() { ItemName = ise.ItemName });
             }
         }
+        public void RefundOrder(Guid ordernumber) {
+            OrderProvider.RefundOrder(ordernumber);
+        }
 
-       
+
     }
 }

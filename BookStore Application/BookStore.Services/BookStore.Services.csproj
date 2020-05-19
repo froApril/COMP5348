@@ -69,6 +69,10 @@
     <Compile Include="ServiceFactory.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BookStore.Business.Components\BookStore.Business.Components.csproj">
+      <Project>{8487AF38-AA02-40B8-8DDD-898D0FB40E33}</Project>
+      <Name>BookStore.Business.Components</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DeliveryCo.MessageTypes\DeliveryCo.MessageTypes.csproj">
       <Project>{441C1B38-48E4-4888-898F-CB5A9517B7A9}</Project>
       <Name>DeliveryCo.MessageTypes</Name>

@@ -146,6 +146,16 @@ namespace BookStore.Business.Components
             return 123;
         }
 
+        public void RefundOrder(Guid ordernumber) {
+            using (BookStoreEntityModelContainer lContainer = new BookStoreEntityModelContainer())
+            {
+                Delivery lDelivery = lContainer.Deliveries.Include("Order.Customer").Where((pDel) => pDel.ExternalDeliveryIdentifier == ordernumber).FirstOrDefault();
+                double total = (double)lDelivery.Order.Total;
+                int accountNumber = lDelivery.Order.Customer.BankAccountNumber;
+                ExternalServiceFactory.Instance.TransferService.Transfer(total,123,accountNumber);
+            }
+        }
+
         
 
 

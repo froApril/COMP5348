@@ -1,7 +1,9 @@
 ﻿using BookStore.Business.Components;
+using BookStore.Services;
 using BookStore.Services.MessageTypes;
 using BookStore.WebClient.ClientModels;
 using DeliveryCo.MessageTypes;
+using DeliveryCo.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,7 +27,10 @@ namespace BookStore.WebClient.Controllers
         public RedirectToRouteResult RefundDelivery(String delivery)
         {
 
-            ExternalServiceFactory.Instance.DeliveryService.RefundDelivery(delivery);
+            Guid orderNumber = ExternalServiceFactory.Instance.DeliveryService.RefundDelivery(delivery);
+            ServiceFactory.Instance.OrderService.RefundOrder(orderNumber);
+
+
             return RedirectToAction("Index");
         }
     }
