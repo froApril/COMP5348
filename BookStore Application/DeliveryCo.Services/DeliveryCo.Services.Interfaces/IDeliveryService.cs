@@ -18,6 +18,6 @@ namespace DeliveryCo.Services.Interfaces
         List<DeliveryInfo> getAllDelivery();
 
         [OperationContract]
-        void RefundDelivery(String pDeliveryInfo);
+        Guid RefundDelivery(String pDeliveryInfo);
     }
 }

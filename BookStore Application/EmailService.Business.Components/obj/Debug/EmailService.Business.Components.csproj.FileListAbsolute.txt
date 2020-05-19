@@ -44,3 +44,15 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Busin
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csproj.CopyComplete
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.pdb

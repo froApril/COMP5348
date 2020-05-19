@@ -40,8 +40,8 @@ namespace DeliveryCo.Services
             return result;
         }
 
-        public void RefundDelivery(String pDeliveryInfo) {
-            DeliveryProvider.RefundDelivery(pDeliveryInfo);
+        public Guid RefundDelivery(String pDeliveryInfo) {
+            return DeliveryProvider.RefundDelivery(pDeliveryInfo);
         }
 
     }

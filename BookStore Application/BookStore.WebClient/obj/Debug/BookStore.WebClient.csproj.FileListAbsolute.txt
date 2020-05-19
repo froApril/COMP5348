@@ -356,3 +356,10 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClien
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.Net4.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\BookStore.Services.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.dll
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\BookStore.Services.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\BookStore.Services.dll.config
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.pdb
+C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.xml

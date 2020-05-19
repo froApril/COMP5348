@@ -62,7 +62,7 @@ namespace DeliveryCo.Business.Components
 
         }
 
-        public void RefundDelivery(String pDeliveryInfo) 
+        public Guid RefundDelivery(String pDeliveryInfo) 
         {
             Console.WriteLine("Order " + pDeliveryInfo+" is refund.");
             using (TransactionScope lScope = new TransactionScope())
@@ -82,6 +82,9 @@ namespace DeliveryCo.Business.Components
                 lService.NotifyDeliveryCompletion(i.DeliveryIdentifier, DeliveryInfoStatus.Failed);
 
                 //do the bank account refund
+                return i.DeliveryIdentifier;
+
+
             }
         }
 

@@ -264,6 +264,10 @@
       <Project>{8487AF38-AA02-40B8-8DDD-898D0FB40E33}</Project>
       <Name>BookStore.Business.Components</Name>
     </ProjectReference>
+    <ProjectReference Include="..\BookStore.Services\BookStore.Services.csproj">
+      <Project>{F9CA67C7-F0FE-4AB4-BBF7-9D75506DDE9E}</Project>
+      <Name>BookStore.Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{c2d987a4-ad05-4c0b-b285-5b64b0132df9}</Project>
       <Name>Common</Name>

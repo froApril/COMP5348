@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BookStore.Business.Components.Interfaces;
 using BookStore.Business.Entities;
+using BookStore.Business.Components;
 
 namespace BookStore.Services
 {
@@ -21,6 +22,8 @@ namespace BookStore.Services
         {
             Provider.NotifyDeliveryCompletion(pDeliveryId, GetDeliveryStatusFromDeliveryInfoStatus(status));
         }
+
+
 
         private DeliveryStatus GetDeliveryStatusFromDeliveryInfoStatus(DeliveryInfoStatus status)
         {
@@ -42,5 +45,15 @@ namespace BookStore.Services
             }
         }
 
+        public MessageTypes.Order RetrieveDeliveryOrder(Guid pDeliveryId)
+        {
+            DeliveryNotificationProvider dn = new DeliveryNotificationProvider();
+
+            var pOrder = dn.RetrieveDeliveryOrder(pDeliveryId);
+            MessageTypes.Order externalResult = MessageTypeConverter.Instance.Convert<
+                BookStore.Business.Entities.Order,
+                BookStore.Services.MessageTypes.Order>(pOrder);
+            return externalResult;
+        }
     }
 }
