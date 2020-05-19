@@ -49,5 +49,15 @@ namespace Bank.Business.Components
                 return lContainer.Accounts.Where((pAcct) => (pAcct.AccountNumber == pToAcctNumber)).FirstOrDefault();
             }
         }
+
+        public double ShowBalance(int id)
+        {
+
+            using (BankEntityModelContainer lContainer = new BankEntityModelContainer())
+            {
+                Account lAcct = lContainer.Accounts.Where((account) => account.Id== id).FirstOrDefault();
+                return lAcct.Balance;
+            }
+        }
     }
 }

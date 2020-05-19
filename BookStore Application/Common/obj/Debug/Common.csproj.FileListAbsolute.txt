@@ -47,3 +47,14 @@ C:\Users\ASUS\Desktop\新建文件夹\Common\obj\Debug\Common.csproj.CoreCompile
 C:\Users\ASUS\Desktop\新建文件夹\Common\obj\Debug\Common.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\Common\obj\Debug\Common.dll
 C:\Users\ASUS\Desktop\新建文件夹\Common\obj\Debug\Common.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\bin\Debug\Common.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\bin\Debug\Common.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\bin\Debug\Common.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\bin\Debug\EntityFramework.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\bin\Debug\EntityFramework.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\Common.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\Common.pdb

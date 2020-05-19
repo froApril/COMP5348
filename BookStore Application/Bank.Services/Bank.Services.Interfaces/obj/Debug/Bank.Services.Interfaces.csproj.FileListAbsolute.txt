@@ -39,3 +39,14 @@ C:\Users\ASUS\Desktop\新建文件夹\Bank.Services\Bank.Services.Interfaces\obj
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb

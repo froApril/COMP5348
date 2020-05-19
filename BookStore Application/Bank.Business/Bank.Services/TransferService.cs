@@ -21,5 +21,9 @@ namespace Bank.Services
         {
             TransferProvider.Transfer(pAmount, pFromAcctNumber, pToAcctNumber);
         }
+        public double ShowBalance(int AccountNumber)
+        {
+            return TransferProvider.ShowBalance(AccountNumber);
+        }
     }
 }

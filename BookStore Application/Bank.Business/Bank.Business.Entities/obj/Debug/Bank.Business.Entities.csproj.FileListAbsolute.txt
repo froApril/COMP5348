@@ -34,3 +34,14 @@ C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Business.Entities\obj\D
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

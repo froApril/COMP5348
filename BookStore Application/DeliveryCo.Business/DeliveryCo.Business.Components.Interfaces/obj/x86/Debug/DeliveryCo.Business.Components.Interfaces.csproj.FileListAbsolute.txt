@@ -44,3 +44,14 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\Deliver
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb

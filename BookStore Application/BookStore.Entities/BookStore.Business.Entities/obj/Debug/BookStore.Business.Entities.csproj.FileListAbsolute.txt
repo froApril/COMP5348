@@ -28,3 +28,15 @@ C:\Users\ASUS\Desktop\新建文件夹\BookStore.Entities\BookStore.Business.Enti
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.dll
 C:\Users\ASUS\Desktop\新建文件夹\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\Common.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.pdb

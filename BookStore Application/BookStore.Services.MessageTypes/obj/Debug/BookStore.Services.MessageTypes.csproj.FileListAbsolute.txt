@@ -45,3 +45,14 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageT
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb

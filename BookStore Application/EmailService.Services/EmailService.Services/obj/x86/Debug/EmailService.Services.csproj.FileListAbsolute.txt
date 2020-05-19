@@ -72,3 +72,24 @@ C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Service
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.dll
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\EmailService.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services\obj\x86\Debug\EmailService.Services.pdb
