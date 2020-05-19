@@ -59,28 +59,5 @@ namespace Bank.Business.Components
                 return lAcct.Balance;
             }
         }
-
-        public void RefundTransfer(int id, double pAmount)
-        {
-            using (TransactionScope lScope = new TransactionScope())
-            using (BankEntityModelContainer lContainer = new BankEntityModelContainer())
-            {
-                try
-                {
-  
-                    Account lToAcct = lContainer.Accounts.Where(account => id == account.AccountNumber).First();
-                    Account lFromAcct = lContainer.Accounts.Where(account => 123 == account.AccountNumber).First();
-                    lFromAcct.Withdraw(pAmount);
-                    lToAcct.Deposit(pAmount);
-                    lContainer.SaveChanges();
-                    lScope.Complete();
-                }
-                catch (Exception lException)
-                {
-                    Console.WriteLine("Error occured while refund money:  " + lException.Message);
-                    throw;
-                }
-            }
-        }
     }
 }

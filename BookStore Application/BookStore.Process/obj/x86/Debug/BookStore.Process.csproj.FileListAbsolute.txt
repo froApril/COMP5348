@@ -338,4 +338,3 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Process\
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
-C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Process\bin\Debug\AutoMapper.Net4.dll

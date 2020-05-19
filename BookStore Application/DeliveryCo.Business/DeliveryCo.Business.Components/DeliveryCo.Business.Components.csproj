@@ -59,26 +59,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Bank.Business\Bank.Business.Components\Bank.Business.Components.csproj">
-      <Project>{9DC3D9E0-63FD-4901-8203-0739F35E74BA}</Project>
-      <Name>Bank.Business.Components</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Bank.Business\Bank.Services\Bank.Services.csproj">
-      <Project>{218FC160-8F21-465C-9210-8535AA38168B}</Project>
-      <Name>Bank.Services</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Bank.Services\Bank.Services.Interfaces\Bank.Services.Interfaces.csproj">
-      <Project>{3317F30A-A62C-474D-8D2B-B91605ECF202}</Project>
-      <Name>Bank.Services.Interfaces</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\BookStore.Business.Components\BookStore.Business.Components.csproj">
-      <Project>{8487AF38-AA02-40B8-8DDD-898D0FB40E33}</Project>
-      <Name>BookStore.Business.Components</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\BookStore.Entities\BookStore.Business.Entities\BookStore.Business.Entities.csproj">
-      <Project>{35992EC3-2C32-46AF-AEE4-491C54F681A5}</Project>
-      <Name>BookStore.Business.Entities</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\DeliveryCo.Services\DeliveryCo.Services.Interfaces\DeliveryCo.Services.Interfaces.csproj">
       <Project>{7E7A8D7D-87CF-420F-A72B-8F4A258BB48A}</Project>
       <Name>DeliveryCo.Services.Interfaces</Name>

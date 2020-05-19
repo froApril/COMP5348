@@ -15,9 +15,5 @@ namespace Bank.Services.Interfaces
 
         [OperationContract]
         double ShowBalance(int AccountNumber);
-
-        [OperationContract]
-        void RefundTransfer(int id, double pAmount);
-
     }
 }
