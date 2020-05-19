@@ -33,3 +33,14 @@ C:\Users\ASUS\Desktop\新建文件夹\EmailService.Business.Entities\obj\x86\Deb
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

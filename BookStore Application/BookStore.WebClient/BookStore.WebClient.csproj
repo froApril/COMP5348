@@ -167,6 +167,7 @@
     <Compile Include="Binders\CartModelBinder.cs" />
     <Compile Include="ClientModels\DeliveryList.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\BalanceController.cs" />
     <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\DeliveryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -242,6 +243,7 @@
     <Content Include="Views\Cart\ErrorPage.cshtml" />
     <Content Include="Views\Cart\DoubleCheckOut.cshtml" />
     <Content Include="Views\Delivery\Index.cshtml" />
+    <Content Include="Views\Balance\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -254,6 +256,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Bank.Services\Bank.Services.Interfaces\Bank.Services.Interfaces.csproj">
+      <Project>{3317F30A-A62C-474D-8D2B-B91605ECF202}</Project>
+      <Name>Bank.Services.Interfaces</Name>
+    </ProjectReference>
     <ProjectReference Include="..\BookStore.Business.Components\BookStore.Business.Components.csproj">
       <Project>{8487AF38-AA02-40B8-8DDD-898D0FB40E33}</Project>
       <Name>BookStore.Business.Components</Name>

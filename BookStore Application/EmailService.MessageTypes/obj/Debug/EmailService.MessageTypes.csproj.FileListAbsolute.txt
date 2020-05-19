@@ -13,3 +13,8 @@ C:\Users\ASUS\Desktop\新建文件夹\EmailService.MessageTypes\bin\Debug\EmailS
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb

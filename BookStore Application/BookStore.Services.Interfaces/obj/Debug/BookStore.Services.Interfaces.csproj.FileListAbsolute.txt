@@ -44,3 +44,15 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.Interfac
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.pdb
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.pdb

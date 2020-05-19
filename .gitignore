@@ -1,0 +1,17 @@
+
+*.config
+*.config
+*.config
+*.lock
+*.ide-shm
+*.ide
+*.exe
+*.pdb
+*.dll
+*.ide-wal
+*.txt
+*.exe
+*.pdb
+*.dll
+*.config
+*.dll

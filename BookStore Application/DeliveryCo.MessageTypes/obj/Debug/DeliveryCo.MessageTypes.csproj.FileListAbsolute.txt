@@ -13,3 +13,7 @@ C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.MessageTypes\bin\Debug\Delivery
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb

@@ -33,3 +33,14 @@ C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Service
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.dll
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.pdb

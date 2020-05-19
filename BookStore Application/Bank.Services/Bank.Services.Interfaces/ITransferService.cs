@@ -12,5 +12,8 @@ namespace Bank.Services.Interfaces
         [OperationContract]
         [TransactionFlow(TransactionFlowOption.Allowed)]
         void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber);
+
+        [OperationContract]
+        double ShowBalance(int AccountNumber);
     }
 }

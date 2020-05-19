@@ -46,3 +46,14 @@ C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
 C:\Users\ASUS\Desktop\新建文件夹\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

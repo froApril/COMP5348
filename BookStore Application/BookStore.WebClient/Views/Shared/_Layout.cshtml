@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNet.Identity
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -25,6 +27,14 @@
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                     <li>@Html.ActionLink("Delivery", "Index", "Delivery")</li>
+                    <li>
+                        @using (Html.BeginForm("Index", "Balance"))
+                        {
+                            @Html.Hidden("UserId", User.Identity.GetUserId())
+                            <input type="submit" , value="Balance" style="margin-top:12px">
+                        }
+                    </li>
+
 
 
                 </ul>

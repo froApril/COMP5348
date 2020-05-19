@@ -13,6 +13,7 @@ namespace BookStore.Services.MessageTypes
         public String Email { get; set; }
         public String Address { get; set; }
         public LoginCredential LoginCredential {get; set;}
+        public int BankAccountNumber { get; set; }
 
         public byte[] Revision { get; set; }
 

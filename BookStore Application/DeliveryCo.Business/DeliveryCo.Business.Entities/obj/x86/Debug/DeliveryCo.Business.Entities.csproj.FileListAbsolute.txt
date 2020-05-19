@@ -29,3 +29,14 @@ C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.En
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
 C:\Users\ASUS\Desktop\新建文件夹\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojAssemblyReference.cache
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
