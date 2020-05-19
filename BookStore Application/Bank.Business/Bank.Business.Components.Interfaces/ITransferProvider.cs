@@ -10,5 +10,7 @@ namespace Bank.Business.Components.Interfaces
         void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber);
 
         double ShowBalance(int AccountNumber);
+
+        void RefundTransfer(int id, double pAmount);
     }
 }

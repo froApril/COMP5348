@@ -25,5 +25,9 @@ namespace Bank.Services
         {
             return TransferProvider.ShowBalance(AccountNumber);
         }
+        public void RefundTransfer(int id, double pAmount)
+        {
+            TransferProvider.RefundTransfer(id, pAmount);
+        }
     }
 }

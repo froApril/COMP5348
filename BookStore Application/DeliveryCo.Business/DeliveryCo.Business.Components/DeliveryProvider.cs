@@ -7,7 +7,8 @@ using System.Transactions;
 using DeliveryCo.Business.Entities;
 using System.Threading;
 using DeliveryCo.Services.Interfaces;
-
+using BookStore.Business.Entities;
+using BookStore.Business.Components;
 
 namespace DeliveryCo.Business.Components
 {
@@ -40,7 +41,7 @@ namespace DeliveryCo.Business.Components
         private void ScheduleDelivery(DeliveryInfo pDeliveryInfo)
         {
             Console.WriteLine("Delivering to " + pDeliveryInfo.DestinationAddress);
-            Thread.Sleep(5000);
+            Thread.Sleep(50000);
             //notifying of delivery completion
             using (TransactionScope lScope = new TransactionScope())
             using (DeliveryCoEntityModelContainer lContainer = new DeliveryCoEntityModelContainer())
@@ -76,12 +77,19 @@ namespace DeliveryCo.Business.Components
 
                 var i = item.First();
                 i.Status = 2;
+           
                 lContainer.SaveChanges();
                 lScope.Complete();
                 IDeliveryNotificationService lService = DeliveryNotificationServiceFactory.GetDeliveryNotificationService(i.DeliveryNotificationAddress);
                 lService.NotifyDeliveryCompletion(i.DeliveryIdentifier, DeliveryInfoStatus.Failed);
 
                 //do the bank account refund
+                DeliveryNotificationProvider dp = new DeliveryNotificationProvider();
+                Order order = dp.RetrieveDeliveryOrder(value);
+                ExternalServiceFactory.Instance.TransferService.RefundTransfer(order.Customer.Id, (double)order.Total);
+
+
+                
             }
         }
 
