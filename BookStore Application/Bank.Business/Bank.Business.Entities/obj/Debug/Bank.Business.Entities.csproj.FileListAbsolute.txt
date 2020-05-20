@@ -45,3 +45,15 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

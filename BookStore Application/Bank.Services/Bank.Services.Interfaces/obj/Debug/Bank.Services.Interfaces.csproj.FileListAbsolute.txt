@@ -50,3 +50,15 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb

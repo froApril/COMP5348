@@ -69,3 +69,15 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Services
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CopyComplete
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

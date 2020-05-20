@@ -86,3 +86,24 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\Deliver
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\BookStore.Services.MessageTypes.pdb
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.pdb

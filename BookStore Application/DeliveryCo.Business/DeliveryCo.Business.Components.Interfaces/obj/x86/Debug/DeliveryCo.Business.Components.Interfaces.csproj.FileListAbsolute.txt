@@ -55,3 +55,15 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Busines
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb

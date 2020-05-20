@@ -40,3 +40,15 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Busines
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb

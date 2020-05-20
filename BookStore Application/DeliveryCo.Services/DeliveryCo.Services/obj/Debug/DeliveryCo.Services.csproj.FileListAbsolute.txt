@@ -131,3 +131,31 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\Deliver
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\EntityFramework.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb

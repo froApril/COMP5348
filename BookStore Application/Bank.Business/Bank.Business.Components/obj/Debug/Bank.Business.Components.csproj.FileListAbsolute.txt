@@ -83,3 +83,18 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Business
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb

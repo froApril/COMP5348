@@ -46,3 +46,13 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entit
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.pdb

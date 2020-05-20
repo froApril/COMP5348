@@ -18,3 +18,9 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Messa
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csprojAssemblyReference.cache
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb

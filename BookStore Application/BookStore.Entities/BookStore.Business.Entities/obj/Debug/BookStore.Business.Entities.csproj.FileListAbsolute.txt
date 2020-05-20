@@ -40,3 +40,16 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\Common.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Entities\BookStore.Business.Entities\obj\Debug\BookStore.Business.Entities.pdb

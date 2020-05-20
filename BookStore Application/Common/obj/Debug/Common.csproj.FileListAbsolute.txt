@@ -58,3 +58,15 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\C
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\Common.csproj.CopyComplete
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\Common.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\Common\obj\Debug\Common.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\bin\Debug\Common.dll.config
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\bin\Debug\Common.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\bin\Debug\Common.pdb
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\bin\Debug\EntityFramework.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\bin\Debug\EntityFramework.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\obj\Debug\Common.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\Common\obj\Debug\Common.pdb

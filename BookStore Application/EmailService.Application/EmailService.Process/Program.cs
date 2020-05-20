@@ -8,6 +8,9 @@ using Microsoft.Practices.Unity.Configuration;
 using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.ServiceLocation;
 using System.Configuration;
+using EmailService.Services;
+using EmailService.Services.Interfaces;
+using System.Runtime.CompilerServices;
 
 namespace EmailService.Process
 {
@@ -16,6 +19,7 @@ namespace EmailService.Process
         static void Main(string[] args)
         {
             ResolveDependencies();
+            
             using (ServiceHost lHost = new ServiceHost(typeof(EmailService.Services.EmailService)))
             {
                 lHost.Open();
@@ -33,6 +37,8 @@ namespace EmailService.Process
             lSection.Containers["containerOne"].Configure(lContainer);
             UnityServiceLocator locator = new UnityServiceLocator(lContainer);
             ServiceLocator.SetLocatorProvider(() => locator);
+            // NEW CODE
+            locator.GetInstance<EmailService.Services.EmailService>().startTimer(2000);
         }
     }
 }
