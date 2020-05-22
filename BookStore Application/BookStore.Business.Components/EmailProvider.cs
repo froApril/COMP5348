@@ -21,6 +21,8 @@ namespace BookStore.Business.Components
             // Remove this dependency, send through the queue instead
             //ExternalServiceFactory.Instance.EmailService.SendEmail(newmsg);
 
+            
+
             System.Messaging.Message msg = new System.Messaging.Message();
             msg.Body = newmsg;
             MessageQueue queue = new MessageQueue(".\\Private$\\bookstoremessage");

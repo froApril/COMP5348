@@ -18,8 +18,12 @@ namespace BookStore.WebClient.Controllers
         {
             User user = ServiceFactory.Instance.UserService.ReadUserById(int.Parse(UserId));
 
-            double balance = ExternalServiceFactory.Instance.TransferService.ShowBalance(user.Id);
-            ViewBag.Message = balance;
+            // The transfer service may not be available, show an error message if it is not
+            double balance = -1;
+            try { balance = ExternalServiceFactory.Instance.TransferService.ShowBalance(user.Id); }
+            catch {}
+            if (balance == -1) ViewBag.Message = "not currently available as the Bank Service is down.";
+            else ViewBag.Message = "$" + balance;
        
             return View(ViewBag);
         }

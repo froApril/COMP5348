@@ -244,6 +244,7 @@
     <Content Include="Views\Cart\DoubleCheckOut.cshtml" />
     <Content Include="Views\Delivery\Index.cshtml" />
     <Content Include="Views\Balance\Index.cshtml" />
+    <Content Include="Views\Delivery\ErrorPage.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

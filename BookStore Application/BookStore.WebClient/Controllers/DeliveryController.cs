@@ -17,7 +17,15 @@ namespace BookStore.WebClient.Controllers
         // GET: Delivery
         public ActionResult Index()
         {
-            List<DeliveryInfo> deliveryList = ExternalServiceFactory.Instance.DeliveryService.getAllDelivery();
+            // See if the service is available, else handle
+            List<DeliveryInfo> deliveryList = null;
+            try {
+                deliveryList = ExternalServiceFactory.Instance.DeliveryService.getAllDelivery();
+            }
+            catch
+            {
+                deliveryList = new List<DeliveryInfo>();
+            }
             DeliveryList list = new DeliveryList();
             list.deliveryList = deliveryList;
 
@@ -26,12 +34,23 @@ namespace BookStore.WebClient.Controllers
 
         public RedirectToRouteResult RefundDelivery(String delivery)
         {
-
-            Guid orderNumber = ExternalServiceFactory.Instance.DeliveryService.RefundDelivery(delivery);
-            ServiceFactory.Instance.OrderService.RefundOrder(orderNumber);
+            // See if the service is available, else handle
+            try
+            {
+                Guid orderNumber = ExternalServiceFactory.Instance.DeliveryService.RefundDelivery(delivery);
+                ServiceFactory.Instance.OrderService.RefundOrder(orderNumber);
+            }
+            catch
+            {
+                RedirectToAction("ErrorPage");
+            }
 
 
             return RedirectToAction("Index");
+        }
+        public ActionResult ErrorPage()
+        {
+            return View();
         }
     }
 }

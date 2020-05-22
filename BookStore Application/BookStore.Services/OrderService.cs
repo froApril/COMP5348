@@ -22,7 +22,7 @@ namespace BookStore.Services
             }
         }
 
-        public void SubmitOrder(Order pOrder)
+        public bool SubmitOrder(Order pOrder)
         {
             try
             {
@@ -32,11 +32,18 @@ namespace BookStore.Services
                     BookStore.Business.Entities.Order>(pOrder)
                 );
             }
-            catch(BookStore.Business.Entities.InsufficientStockException ise)
+            catch (BookStore.Business.Entities.InsufficientStockException ise)
             {
                 throw new FaultException<InsufficientStockFault>(
                     new InsufficientStockFault() { ItemName = ise.ItemName });
             }
+            // Catch any other exception and return false if this is the case
+            catch (Exception lException)
+            {
+                return false;
+            }
+            return true;
+
         }
         public void RefundOrder(Guid ordernumber) {
             OrderProvider.RefundOrder(ordernumber);

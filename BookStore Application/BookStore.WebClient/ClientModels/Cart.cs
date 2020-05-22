@@ -37,20 +37,18 @@ namespace BookStore.WebClient.ClientModels
 
         public void SubmitOrderAndClearCart(UserCache pUserCache)
         {
-
-            Order lOrder = new Order();
-            lOrder.OrderDate = DateTime.Now;
-            lOrder.Customer = pUserCache.Model;
-            lOrder.Status = 0;
-            foreach (OrderItem lItem in mOrderItems)
-            {
-                lOrder.OrderItems.Add(lItem);
-            }
-            lOrder.Total = Convert.ToDouble(ComputeTotalValue());
-
-            ServiceFactory.Instance.OrderService.SubmitOrder(lOrder);
-            pUserCache.UpdateUserCache();
-            Clear();
+                Order lOrder = new Order();
+                lOrder.OrderDate = DateTime.Now;
+                lOrder.Customer = pUserCache.Model;
+                lOrder.Status = 0;
+                foreach (OrderItem lItem in mOrderItems)
+                {
+                    lOrder.OrderItems.Add(lItem);
+                }
+                lOrder.Total = Convert.ToDouble(ComputeTotalValue());
+                if (ServiceFactory.Instance.OrderService.SubmitOrder(lOrder) == false) throw new Exception("Either the bank or delivery service is currently unavailable");
+                pUserCache.UpdateUserCache();
+                Clear();
         }
 
         public void RemoveLine(Book pBook)

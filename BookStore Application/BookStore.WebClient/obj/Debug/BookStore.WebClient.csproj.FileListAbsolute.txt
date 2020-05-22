@@ -363,7 +363,6 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\Boo
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\BookStore.Services.dll.config
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.pdb
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.xml
-C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\bin\AutoMapper.Net4.dll
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\bin\BookStore.WebClient.dll.config
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\bin\BookStore.WebClient.dll
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\bin\BookStore.WebClient.pdb
