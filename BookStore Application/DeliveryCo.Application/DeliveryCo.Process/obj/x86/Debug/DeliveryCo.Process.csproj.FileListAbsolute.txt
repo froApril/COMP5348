@@ -224,3 +224,7 @@ C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.A
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.csproj.CopyComplete
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml

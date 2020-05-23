@@ -192,3 +192,12 @@ C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Se
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Services\obj\Debug\BookStore.Services.csproj.CopyComplete
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Services\obj\Debug\BookStore.Services.dll
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\BookStore.Business.Components.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Services\bin\Debug\Bank.Services.Interfaces.pdb
