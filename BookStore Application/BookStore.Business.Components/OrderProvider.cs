@@ -151,8 +151,15 @@ namespace BookStore.Business.Components
             {
                 Delivery lDelivery = lContainer.Deliveries.Include("Order.Customer").Where((pDel) => pDel.ExternalDeliveryIdentifier == ordernumber).FirstOrDefault();
                 double total = (double)lDelivery.Order.Total;
+                ICollection<OrderItem> orderItems = lDelivery.Order.OrderItems;
                 int accountNumber = lDelivery.Order.Customer.BankAccountNumber;
                 ExternalServiceFactory.Instance.TransferService.Transfer(total,123,accountNumber);
+                foreach (OrderItem lItem in orderItems)
+                {
+                    lItem.Book.Stock.Quantity += lItem.Quantity;
+
+                }
+                lContainer.SaveChanges();
             }
         }
 
