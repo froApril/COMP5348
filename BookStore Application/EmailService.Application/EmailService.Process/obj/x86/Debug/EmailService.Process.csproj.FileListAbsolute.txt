@@ -101,7 +101,6 @@ C:\Users\ASUS\Desktop\新建文件夹\EmailService.Application\EmailService.Proc
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csproj.CopyComplete
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
 C:\Users\ASUS\Desktop\新建文件夹\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
-C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.Net4.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
