@@ -33,6 +33,10 @@ namespace BookStore.Business.Components
                 {
                     try
                     {
+                        // First ping each service to ensure they respond, may cause money or books to disappear otherwise
+                        ExternalServiceFactory.Instance.DeliveryService.Ping();
+                        ExternalServiceFactory.Instance.TransferService.Ping();
+
                         pOrder.OrderNumber = Guid.NewGuid();
                         pOrder.Store = "OnLine";
 

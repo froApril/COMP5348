@@ -15,5 +15,7 @@ namespace Bank.Services.Interfaces
 
         [OperationContract]
         double ShowBalance(int AccountNumber);
+        [OperationContract]
+        void Ping();
     }
 }

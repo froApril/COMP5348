@@ -47,5 +47,10 @@ namespace DeliveryCo.Services
             return DeliveryProvider.RefundDelivery(pDeliveryInfo);
         }
 
+        public void Ping()
+        {
+            // Does nothing
+        }
+
     }
 }

@@ -19,5 +19,7 @@ namespace DeliveryCo.Services.Interfaces
 
         [OperationContract]
         Guid RefundDelivery(String pDeliveryInfo);
+        [OperationContract]
+        void Ping();
     }
 }

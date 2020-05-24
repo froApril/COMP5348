@@ -27,5 +27,10 @@ namespace Bank.Services
             Console.Out.WriteLine("(" + DateTime.Now + ") Showing balance for account " + AccountNumber);
             return TransferProvider.ShowBalance(AccountNumber);
         }
+
+        public void Ping()
+        {
+            // Does nothing
+        }
     }
 }
