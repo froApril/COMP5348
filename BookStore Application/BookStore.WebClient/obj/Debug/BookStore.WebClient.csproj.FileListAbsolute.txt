@@ -453,7 +453,6 @@ C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.We
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
-C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.Net4.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\bin\BookStore.Services.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\bin\BookStore.Services.pdb
