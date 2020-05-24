@@ -42,7 +42,7 @@ namespace EmailService.Services
             arrTypes[1] = o.GetType();
             queue.Formatter = new XmlMessageFormatter(arrTypes);
             email = ((EmailMessage)queue.Receive().Body);
-            Console.Out.WriteLine(email.Date + ": Retrieved message from the queue and sent to " + email.ToAddresses);
+            Console.Out.WriteLine("(" + DateTime.Now + ") Retrieved message from the queue dated " + email.Date);
             Console.Out.WriteLine("To: " + email.ToAddresses + " From: " + email.FromAddresses + "\n" + email.Message);
         }
 

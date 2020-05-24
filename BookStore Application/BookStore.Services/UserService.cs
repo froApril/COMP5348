@@ -94,5 +94,9 @@ namespace BookStore.Services
 
             return externalType;
         }
+
+        public void Log(string message) {
+            Console.Out.WriteLine(message);
+        }
     }
 }

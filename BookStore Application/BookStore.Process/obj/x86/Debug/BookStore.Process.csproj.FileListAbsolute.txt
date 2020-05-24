@@ -424,3 +424,4 @@ C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Pr
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.Process\bin\Debug\AutoMapper.Net4.dll
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.Process\bin\Debug\AutoMapper.Net4.dll

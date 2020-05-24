@@ -183,7 +183,7 @@ namespace BookStore.Process
                     lHost.Open();
                     lHosts.Add(lHost);
                 }
-                Console.WriteLine("BookStore Service Started, press Q key to quit");
+                Console.WriteLine("(" + DateTime.Now + ") BookStore Service Started, press Q key to quit");
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
             }
             finally

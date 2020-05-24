@@ -39,7 +39,7 @@ namespace DeliveryCo.Business.Components
 
         private void ScheduleDelivery(DeliveryInfo pDeliveryInfo)
         {
-            Console.WriteLine("Delivering to " + pDeliveryInfo.DestinationAddress);
+            Console.WriteLine("(" + DateTime.Now + ") Delivering to " + pDeliveryInfo.DestinationAddress);
             Thread.Sleep(5000);
             //notifying of delivery completion
             using (TransactionScope lScope = new TransactionScope())
@@ -64,7 +64,7 @@ namespace DeliveryCo.Business.Components
 
         public Guid RefundDelivery(String pDeliveryInfo) 
         {
-            Console.WriteLine("Order " + pDeliveryInfo+" is refund.");
+            Console.WriteLine("(" + DateTime.Now + ") Order " + pDeliveryInfo+" has been refunded.");
             using (TransactionScope lScope = new TransactionScope())
             using (DeliveryCoEntityModelContainer lContainer = new DeliveryCoEntityModelContainer())
             {

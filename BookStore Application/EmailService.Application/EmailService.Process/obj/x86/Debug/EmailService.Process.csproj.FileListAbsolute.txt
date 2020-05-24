@@ -192,4 +192,3 @@ C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csproj.CopyComplete
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
-C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.Net4.dll

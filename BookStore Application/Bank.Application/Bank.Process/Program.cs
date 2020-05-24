@@ -29,7 +29,7 @@ namespace Bank.Process
             using (ServiceHost lHost = new ServiceHost(typeof(TransferService)))
             {
                 lHost.Open();
-                Console.WriteLine("Bank Services started. Press Q to quit.");
+                Console.WriteLine("(" + DateTime.Now + ") Bank Services started. Press Q to quit.");
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
             }
         }

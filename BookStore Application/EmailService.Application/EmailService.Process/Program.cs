@@ -23,7 +23,7 @@ namespace EmailService.Process
             using (ServiceHost lHost = new ServiceHost(typeof(EmailService.Services.EmailService)))
             {
                 lHost.Open();
-                Console.WriteLine("Email Service Started");
+                Console.WriteLine("(" + DateTime.Now + ") Email Service Started");
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
             }
         }

@@ -460,3 +460,4 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClien
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\bin\BookStore.Services.dll.config
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.pdb
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\BookStore.WebClient\bin\AutoMapper.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\BookStore.WebClient\bin\AutoMapper.Net4.dll

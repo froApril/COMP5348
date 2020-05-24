@@ -24,6 +24,7 @@ namespace DeliveryCo.Services
         [OperationBehavior(TransactionScopeRequired = true)]
         public Guid SubmitDelivery(DeliveryInfo pDeliveryInfo)
         {
+            Console.Out.WriteLine("(" + DateTime.Now + ") Submitting delivery " + pDeliveryInfo.DeliveryIdentifier);
             return DeliveryProvider.SubmitDelivery(
                 MessageTypeConverter.Instance.Convert<DeliveryCo.MessageTypes.DeliveryInfo, 
                 DeliveryCo.Business.Entities.DeliveryInfo>(pDeliveryInfo)                
@@ -31,6 +32,7 @@ namespace DeliveryCo.Services
         }
         public List<DeliveryInfo> getAllDelivery()
         {
+            Console.Out.WriteLine("(" + DateTime.Now + ") Obtaining all deliveries.");
             var list = DeliveryProvider.getAllDelivery();
             List<DeliveryInfo> result = new List<DeliveryInfo>();
             foreach (var a in list) {
@@ -41,6 +43,7 @@ namespace DeliveryCo.Services
         }
 
         public Guid RefundDelivery(String pDeliveryInfo) {
+            Console.Out.WriteLine("(" + DateTime.Now + ") Refunding delivery " + pDeliveryInfo);
             return DeliveryProvider.RefundDelivery(pDeliveryInfo);
         }
 

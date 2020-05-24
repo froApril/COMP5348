@@ -33,5 +33,7 @@ namespace BookStore.Services.Interfaces
 
         [OperationContract]
         User GetUserByEmail(string email);
+        [OperationContract]
+        void Log(string message);
     }
 }

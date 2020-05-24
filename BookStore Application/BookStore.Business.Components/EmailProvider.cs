@@ -27,7 +27,7 @@ namespace BookStore.Business.Components
             msg.Body = newmsg;
             MessageQueue queue = new MessageQueue(".\\Private$\\bookstoremessage");
             queue.Send(msg);
-            Console.Out.WriteLine(newmsg.Date + ": Sent email message to the queue");
+            Console.Out.WriteLine("(" + DateTime.Now + ") Sent email message dated " + newmsg.Date + " to the queue");
         }
     }
 }

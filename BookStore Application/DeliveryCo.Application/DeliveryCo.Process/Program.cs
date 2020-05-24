@@ -20,7 +20,7 @@ namespace DeliveryCo.Process
             using (ServiceHost lHost = new ServiceHost(typeof(DeliveryService)))
             {
                 lHost.Open();
-                Console.WriteLine("Delivery Service started. Press Q to quit");
+                Console.WriteLine("(" + DateTime.Now + ") Delivery Service started. Press Q to quit");
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
             }
 

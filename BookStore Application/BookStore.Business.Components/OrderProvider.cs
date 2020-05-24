@@ -114,28 +114,39 @@ namespace BookStore.Business.Components
 
         private void PlaceDeliveryForOrder(Order pOrder)
         {
-            Delivery lDelivery = new Delivery() { DeliveryStatus = DeliveryStatus.Submitted, SourceAddress = "Book Store Address", DestinationAddress = pOrder.Customer.Address, Order = pOrder };
+            try
+            {
+                Console.Out.WriteLine("(" + DateTime.Now + ") Attempting to deliver from " + pOrder.Customer.Address);
+                Delivery lDelivery = new Delivery() { DeliveryStatus = DeliveryStatus.Submitted, SourceAddress = "Book Store Address", DestinationAddress = pOrder.Customer.Address, Order = pOrder };
 
-            Guid lDeliveryIdentifier = ExternalServiceFactory.Instance.DeliveryService.SubmitDelivery(new DeliveryInfo()
-            { 
-                OrderNumber = lDelivery.Order.OrderNumber.ToString(),  
-                SourceAddress = lDelivery.SourceAddress,
-                DestinationAddress = lDelivery.DestinationAddress,
-                DeliveryNotificationAddress = "net.tcp://localhost:9010/DeliveryNotificationService"
-            });
+                Guid lDeliveryIdentifier = ExternalServiceFactory.Instance.DeliveryService.SubmitDelivery(new DeliveryInfo()
+                {
+                    OrderNumber = lDelivery.Order.OrderNumber.ToString(),
+                    SourceAddress = lDelivery.SourceAddress,
+                    DestinationAddress = lDelivery.DestinationAddress,
+                    DeliveryNotificationAddress = "net.tcp://localhost:9010/DeliveryNotificationService"
+                });
 
-            lDelivery.ExternalDeliveryIdentifier = lDeliveryIdentifier;
-            pOrder.Delivery = lDelivery;   
+                lDelivery.ExternalDeliveryIdentifier = lDeliveryIdentifier;
+                pOrder.Delivery = lDelivery;
+            }
+            catch
+            {
+                Console.Out.WriteLine("(" + DateTime.Now + ") Delivery from " + pOrder.Customer.Address + " failed. Delivery service may be unavailable.");
+                throw new Exception("Error connecting to delivery service.");
+            } 
         }
 
         private void TransferFundsFromCustomer(int pCustomerAccountNumber, double pTotal)
         {
             try
             {
+                Console.Out.WriteLine("(" + DateTime.Now + ") Requesting transfer of $" + pTotal + " from customer " + pCustomerAccountNumber);
                 ExternalServiceFactory.Instance.TransferService.Transfer(pTotal, pCustomerAccountNumber, RetrieveBookStoreAccountNumber());
             }
             catch
             {
+                Console.Out.WriteLine("(" + DateTime.Now + ") Request failed. Error when transferring funds for order. Bank Services may be unavailable");
                 throw new Exception("Error when transferring funds for order.");
             }
         }
@@ -149,17 +160,25 @@ namespace BookStore.Business.Components
         public void RefundOrder(Guid ordernumber) {
             using (BookStoreEntityModelContainer lContainer = new BookStoreEntityModelContainer())
             {
-                Delivery lDelivery = lContainer.Deliveries.Include("Order.Customer").Where((pDel) => pDel.ExternalDeliveryIdentifier == ordernumber).FirstOrDefault();
-                double total = (double)lDelivery.Order.Total;
-                ICollection<OrderItem> orderItems = lDelivery.Order.OrderItems;
-                int accountNumber = lDelivery.Order.Customer.BankAccountNumber;
-                ExternalServiceFactory.Instance.TransferService.Transfer(total,123,accountNumber);
-                foreach (OrderItem lItem in orderItems)
+                try
                 {
-                    lItem.Book.Stock.Quantity += lItem.Quantity;
+                    Delivery lDelivery = lContainer.Deliveries.Include("Order.Customer").Where((pDel) => pDel.ExternalDeliveryIdentifier == ordernumber).FirstOrDefault();
+                    double total = (double)lDelivery.Order.Total;
+                    ICollection<OrderItem> orderItems = lDelivery.Order.OrderItems;
+                    int accountNumber = lDelivery.Order.Customer.BankAccountNumber;
+                    ExternalServiceFactory.Instance.TransferService.Transfer(total, 123, accountNumber);
+                    foreach (OrderItem lItem in orderItems)
+                    {
+                        lItem.Book.Stock.Quantity += lItem.Quantity;
 
+                    }
+                    lContainer.SaveChanges();
                 }
-                lContainer.SaveChanges();
+                catch
+                {
+                    Console.Out.WriteLine("(" + DateTime.Now + ") Request failed. Error when refunding order. Bank Services may be unavailable");
+                    throw new Exception("Error when refunding order.");
+                }
             }
         }
 

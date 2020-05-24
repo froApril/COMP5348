@@ -19,10 +19,12 @@ namespace Bank.Services
         [OperationBehavior(TransactionScopeRequired=true)]
         public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber)
         {
+            Console.Out.WriteLine("(" + DateTime.Now + ") Transferring $" + pAmount + " from account " + pFromAcctNumber + " to account " + pToAcctNumber);
             TransferProvider.Transfer(pAmount, pFromAcctNumber, pToAcctNumber);
         }
         public double ShowBalance(int AccountNumber)
         {
+            Console.Out.WriteLine("(" + DateTime.Now + ") Showing balance for account " + AccountNumber);
             return TransferProvider.ShowBalance(AccountNumber);
         }
     }

@@ -187,7 +187,6 @@ C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\Deli
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
 C:\Users\ASUS\Desktop\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.Net4.dll
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
 C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
@@ -228,3 +227,4 @@ C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Applica
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
 C:\Users\leeky\Desktop\Project\COMP5348\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asure\OneDrive\Desktop\Group Project\BookStore Application\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.Net4.dll

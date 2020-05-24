@@ -20,10 +20,12 @@ namespace BookStore.WebClient.Controllers
             // See if the service is available, else handle
             List<DeliveryInfo> deliveryList = null;
             try {
+                ServiceFactory.Instance.UserService.Log("(" + DateTime.Now + ") Attempting to fetch all deliveries.");
                 deliveryList = ExternalServiceFactory.Instance.DeliveryService.getAllDelivery();
             }
             catch
             {
+                ServiceFactory.Instance.UserService.Log("(" + DateTime.Now + ") Attempt to fetch all deliveries failed. Delivery service may be unavailable.");
                 deliveryList = new List<DeliveryInfo>();
             }
             DeliveryList list = new DeliveryList();
@@ -37,11 +39,13 @@ namespace BookStore.WebClient.Controllers
             // See if the service is available, else handle
             try
             {
+                ServiceFactory.Instance.UserService.Log("(" + DateTime.Now + ") Attempting to refund delivery " + delivery);
                 Guid orderNumber = ExternalServiceFactory.Instance.DeliveryService.RefundDelivery(delivery);
                 ServiceFactory.Instance.OrderService.RefundOrder(orderNumber);
             }
             catch
             {
+                ServiceFactory.Instance.UserService.Log("(" + DateTime.Now + ") Attempt to refund delivery " + delivery + " failed. Delivery service may be unavailable.");
                 RedirectToAction("ErrorPage");
             }
 
