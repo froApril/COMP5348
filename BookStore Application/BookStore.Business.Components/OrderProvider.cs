@@ -34,9 +34,29 @@ namespace BookStore.Business.Components
                     try
                     {
                         // First ping each service to ensure they respond, may cause money or books to disappear otherwise
+                        Console.Out.WriteLine("(" + DateTime.Now + ") Attempting connection to Delivery service.");
                         ExternalServiceFactory.Instance.DeliveryService.Ping();
+                    }
+                    catch
+                    {
+                        Console.Out.WriteLine("(" + DateTime.Now + ") Connection to Delivery service failed. It may be unavailable.");
+                        throw new Exception("The Delivery service may be unavailable.");
+                    }
+                    Console.Out.WriteLine("(" + DateTime.Now + ") Connection to Delivery service succeeded.");
+                    try
+                    {
+                        // First ping each service to ensure they respond, may cause money or books to disappear otherwise
+                        Console.Out.WriteLine("(" + DateTime.Now + ") Attempting connection to Bank service.");
                         ExternalServiceFactory.Instance.TransferService.Ping();
-
+                    }
+                    catch
+                    {
+                        Console.Out.WriteLine("(" + DateTime.Now + ") Connection to Bank service failed. It may be unavailable.");
+                        throw new Exception("The Bank service may be unavailable.");
+                    }
+                    Console.Out.WriteLine("(" + DateTime.Now + ") Connection to Bank service succeeded.");
+                    try
+                    {
                         pOrder.OrderNumber = Guid.NewGuid();
                         pOrder.Store = "OnLine";
 
