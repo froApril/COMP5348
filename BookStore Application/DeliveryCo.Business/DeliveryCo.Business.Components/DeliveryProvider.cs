@@ -40,7 +40,7 @@ namespace DeliveryCo.Business.Components
         private void ScheduleDelivery(DeliveryInfo pDeliveryInfo)
         {
             Console.WriteLine("(" + DateTime.Now + ") Delivering to " + pDeliveryInfo.DestinationAddress);
-            Thread.Sleep(1000);
+            Thread.Sleep(10000);
             //notifying of delivery completion
             using (TransactionScope lScope = new TransactionScope())
             using (DeliveryCoEntityModelContainer lContainer = new DeliveryCoEntityModelContainer())
